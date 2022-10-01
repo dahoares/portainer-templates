@@ -1,5 +1,5 @@
 {
-    "version": "2",
+    "version": "1",
     "templates": [
       {
         "categories": ["Other"],
@@ -21,7 +21,7 @@
             "set": "adguard home"
           }
         ],
-        "image": "adguard/adguardhome:latest",
+        "image": "adguard/adguardhome",
         "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/adguard.png",
         "name": "adguard",
         "platform": "linux",
